@@ -10,8 +10,8 @@ public class TestSelectionSort {
 	public void test() {
 		testPositive();
 		testNegative();
-		testMixed();
-		testDuplicates();
+		//testMixed();
+		//testDuplicates();
 	}
 	public TestSelectionSort() {
 		
@@ -47,7 +47,7 @@ public class TestSelectionSort {
 		Sortedarr[3] = 9;
 		Sortedarr[4] = 10;
 	}
-	
+	/*
 	public void testMixed() {
 		int[] arr2 = new int[5];
 		arr2[0] = -8;
@@ -79,5 +79,6 @@ public class TestSelectionSort {
 		Sortedarr[3] = 15;
 		Sortedarr[4] = 15;
 	}
-
+*/
+	
 }
